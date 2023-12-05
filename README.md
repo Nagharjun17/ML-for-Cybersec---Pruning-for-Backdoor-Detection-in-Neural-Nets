@@ -30,6 +30,14 @@ To run this project, follow the steps below:
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+4. Set the file paths in the `lab4.ipynb` notebook to match the locations of your data files in Google Drive. Replace path-in-drive with the actual path to your files:
+   ```python
+    cleanValidDataPath = '/content/drive/MyDrive/your-path-in-drive/valid.h5'
+    cleanTestDataPath = '/content/drive/MyDrive/your-path-in-drive/test.h5'
+    poisonedTestDataPath = '/content/drive/MyDrive/your-path-in-drive/bd_test.h5'
+    badModelPath = '/content/drive/MyDrive/your-path-in-drive/bd_net.h5'
+    badModelWeightsPath = '/content/drive/MyDrive/your-path-in-drive/bd_weights.h5'
+
 
 ## Results
 
