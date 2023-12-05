@@ -41,7 +41,7 @@ The following table shows the accuracy and attack rate of the repaired models at
 | 4% Repaired   | 92.1278                 | 99.9844     |
 | 10% Repaired  | 84.3336                 | 77.2097     |
 
-![Comparison of Repaired Clean Accuracy and Attack Rate for each pruned model](https://github.com/Nagharjun17/ML-for-Cybersec---Pruning-for-Backdoor-Detection-in-Neural-Nets/blob/main/data/modelcomp.png?raw=true)
+![Comparison of Repaired Clean Accuracy and Attack Rate for each pruned model](<img src="https://github.com/Nagharjun17/ML-for-Cybersec---Pruning-for-Backdoor-Detection-in-Neural-Nets/blob/main/data/modelcomp.png?raw=true" width="200">)
 
 
 
